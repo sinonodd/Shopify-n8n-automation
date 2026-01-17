@@ -1,5 +1,8 @@
 # Shopify-n8n-automation
 
+<img width="1230" height="674" alt="image" src="https://github.com/user-attachments/assets/8e4dfb03-8364-4ee2-bbc7-1fda700a9754" />
+
+
 ## Workflow Information 📌
 
 ### Purpose 🎯
